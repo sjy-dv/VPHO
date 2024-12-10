@@ -1,6 +1,6 @@
 # Kuentra Official RAG "VPHO(Versatile Partitioned Hierarchical Organization)"
 
-### VPHO(Versatile Partitioned Hierarchical Organization) is one of the methodologies developed by Kuentra for RAG, designed to enable LLMs to efficiently recognize the overall context in consecutive large-scale chat logs and email records.
+### VPHO(Versatile Partitioned Hierarchical Organization) is one of the methodologies for RAG, designed to enable LLMs to efficiently recognize the overall context in consecutive large-scale chat logs and email records.
 
 #### Before considering VPHO, it is important to note that although embedding allows computers to distinguish natural language somewhat like humans, they are still not human. For computers, a large volume of data is just a vast amount of information, not separate, distinct chat rooms.
 
